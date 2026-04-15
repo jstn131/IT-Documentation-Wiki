@@ -8,7 +8,7 @@ experience building and managing IT home lab environments.
 
 ### Active Directory
 - [Installation Guide](https://github.com/jstn131/ActiveDirectoryHomeLab/blob/main/AD-Installation-Guide.md)
-- [Domain Join Guide](Active-Directory/domain-join-guide.md)
+- [Domain Join Guide](https://github.com/jstn131/ActiveDirectoryHomeLab/blob/main/join-guide.md)
 
 ### Remote Access
 - [RDP Setup Guide](Remote-Access/rdp-setup-guide.md)
