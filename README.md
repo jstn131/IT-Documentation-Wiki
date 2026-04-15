@@ -29,5 +29,5 @@ actual problems encountered during setup.
 ## Author
 **Justin Hernandez**
 -  CIS Student — Cal Poly Pomona
--  IT/Cybersecurity Intern — LA-Tech.org
+-  Information Technology Intern @ LA-Tech.org
 -  Linkedin: www.linkedin.com/in/jstn131
