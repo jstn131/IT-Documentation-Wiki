@@ -14,7 +14,7 @@ experience building and managing IT home lab environments.
 - [RDP Setup Guide](https://github.com/jstn131/ActiveDirectoryHomeLab/blob/main/RDP-Setup-Guide.md)
 
 ### Ticketing Systems
-- [osTicket Installation Guide](Ticketing-Systems/osticket-installation-guide.md)
+- [osTicket Installation Guide](https://github.com/jstn131/osTicketLab/blob/main/Installation-Guide.md)
 
 ### Network Troubleshooting
 - [Network Troubleshooting Guide](Network-Troubleshooting/network-troubleshooting-guide.md)
