@@ -11,7 +11,7 @@ experience building and managing IT home lab environments.
 - [Domain Join Guide](https://github.com/jstn131/ActiveDirectoryHomeLab/blob/main/join-guide.md)
 
 ### Remote Access
-- [RDP Setup Guide](Remote-Access/rdp-setup-guide.md)
+- [RDP Setup Guide](https://github.com/jstn131/ActiveDirectoryHomeLab/blob/main/RDP-Setup-Guide.md)
 
 ### Ticketing Systems
 - [osTicket Installation Guide](Ticketing-Systems/osticket-installation-guide.md)
