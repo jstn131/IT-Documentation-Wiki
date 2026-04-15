@@ -30,3 +30,4 @@ actual problems encountered during setup.
 **Justin Hernandez**
 -  CIS Student — Cal Poly Pomona
 -  IT/Cybersecurity Intern — LA-Tech.org
+-  [Linkedin](www.linkedin.com/in/jstn131)
