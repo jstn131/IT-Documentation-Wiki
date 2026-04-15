@@ -28,7 +28,5 @@ actual problems encountered during setup.
 
 ## Author
 **Justin Hernandez**
-CIS Student — Cal Poly Pomona
-IT/Cybersecurity Intern — LA-Tech.org
-[GitHub](https://github.com/jstn131)
-[LinkedIn](www.linkedin.com/in/jstn131)
+-  CIS Student — Cal Poly Pomona
+-  IT/Cybersecurity Intern — LA-Tech.org
