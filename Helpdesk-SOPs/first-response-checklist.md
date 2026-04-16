@@ -141,4 +141,14 @@ These apply to every single ticket regardless of issue type:
 ---
 
 ## Quick Diagnostic Flow
-
+```
+User says they cannot log in
+↓
+Can they attempt to type a password?
+├── No — screen immediately says account locked
+│     → Use Account Lockout Checklist
+└── Yes — they can type but password is rejected
+→ Check Caps Lock first
+→ Use Password Reset Checklist
+→ May also be locked after too many failed attempts
+```
