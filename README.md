@@ -17,7 +17,7 @@ experience building and managing IT home lab environments.
 - [osTicket Installation Guide](https://github.com/jstn131/osTicketLab/blob/main/Installation-Guide.md)
 
 ### Network Troubleshooting
-- [Network Troubleshooting Guide](https://github.com/jstn131/IT-Documentation-Wiki/blob/main/Networking-Troubleshooting-Guide.md)
+- [Network Troubleshooting Guide](Helpdesk-Network-Troubleshooting/Network-Troubleshooting-Guide.md)
 
 ## About
 These guides are written from real hands on experience 
