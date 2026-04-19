@@ -7,17 +7,10 @@ experience building and managing IT home lab environments.
 ## Contents
 
 ### Active Directory
-- [Installation Guide](https://github.com/jstn131/ActiveDirectoryHomeLab/blob/main/AD-Installation-Guide.md)
-- [Domain Join Guide](https://github.com/jstn131/ActiveDirectoryHomeLab/blob/main/join-guide.md)
-
-### Remote Access
-- [RDP Setup Guide](https://github.com/jstn131/ActiveDirectoryHomeLab/blob/main/RDP-Setup-Guide.md)
+- [Active Directory](https://github.com/jstn131/ActiveDirectoryHomeLab)
 
 ### Ticketing Systems
-- [osTicket Installation Guide](https://github.com/jstn131/osTicketLab/blob/main/Installation-Guide.md)
-
-### Network Troubleshooting
-- [Network Troubleshooting Guide](Helpdesk-Network-Troubleshooting/Network-Troubleshooting-Guide.md)
+- [osTicket Installation Guide](https://github.com/jstn131/osTicketLab)
 
 ## About
 These guides are written from real hands on experience 
