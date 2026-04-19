@@ -10,7 +10,7 @@ experience building and managing IT home lab environments.
 - [Active Directory](https://github.com/jstn131/ActiveDirectoryHomeLab)
 
 ### Ticketing Systems
-- [osTicket Installation Guide](https://github.com/jstn131/osTicketLab)
+- [osTicket](https://github.com/jstn131/osTicketLab)
 
 ## About
 These guides are written from real hands on experience 
