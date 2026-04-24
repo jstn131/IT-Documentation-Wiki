@@ -220,7 +220,3 @@ Check IP address
 | `ipconfig /flushdns` | Clears the local DNS resolver cache |
 | `ping 8.8.8.8` | Tests raw network connectivity bypassing DNS |
 | `ping google.com` | Tests DNS resolution and internet connectivity together |
-
----
-
-## Related Documentation
